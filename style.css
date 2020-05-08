@@ -1,0 +1,147 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.topbar{
+    background-color: #316dc3;
+    color: white;
+    padding: 10px;
+}
+.topbar i{
+    margin:0 7px;
+    color: white;
+    
+}
+.header { 
+    width: 100%;
+}
+.nav ul li{
+    display: inline-block;
+    margin-left: 0px;
+    margin-top: 50px;
+}
+.inline{
+    display: inline-block;
+
+}
+.two{
+    margin-left: 40px;
+}
+.button{
+    margin-left: 30px;
+}
+.button a {
+    background-color: white;
+    text-align: center;
+    color: green;
+    font-size: 15px;
+}
+.nav ul li a{
+    padding: 0 5px;
+    color: black;
+}
+.nav ul li {
+    display: inline-block;
+}
+
+
+.nav ul li a:hover{
+        background-color: #316dc3;
+        color: white;
+        border-radius: 30px;
+
+    }
+  marquee{
+      background-color:  #316dc3;
+      color: white;
+      
+  }
+
+.hr {
+    display: block;
+}  
+  h2.head{
+      display: block;
+      text-align: center;
+      color: #316dc3;
+      position: relative;
+    }
+
+      
+  .ano{
+      color: green;
+  }
+
+  .icon1 {
+    position: relative;
+    margin: 15px;
+
+}
+
+.icon1 img ::before {
+    content: "";
+    height: 2px;
+    position: absolute;
+    right: 10px;
+    top: 30px;
+    width: 36px;
+}
+    
+.icon1 img::after {
+    content: "";
+    display: block;
+    height: 2px;
+    left: 10px;
+    position: absolute;
+    top: 30px;
+    width: 36px;
+}
+
+
+
+   .countr {
+       width: 100%;
+       height: 400px;
+      
+       
+   }
+   
+
+   .count2 {
+    margin-left: 40px ;
+}
+
+.count3 {
+    margin-left: 30px ;
+}
+
+.count4 {
+    margin-left: 30px;
+
+    
+}
+.work{
+    text-align: center;
+
+}
+.sep{
+    width: 70px;
+    height: 3px;
+    background-color: green;
+    display: block;
+}
+
+.marq marquee{ 
+    background-color: white;
+    color: black;
+    height: 250px;
+}
+
+.multi-img img{
+    display: inline-block;
+}
+
+
+
+  
